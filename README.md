@@ -18,17 +18,17 @@ better service.
 
 **Model Building:** We will be running following models in this project:
 1. Multi - Logit Regression
-* Significance of Model & Variables
-* Prediction Model Equations
-* Business Inferences
+  * Significance of Model & Variables
+  * Prediction Model Equations
+  * Business Inferences
 2. Linear Regression
-* Multiple linear regression with all variables
-* Linear Regression with Lasso penalty
-* Linear Regression with Elastic net
-* Linear Regression with Forward selection
-* Linear Regression with Backward selection
-* Linear Regression with Stepwise selection
+  * Multiple linear regression with all variables
+  * Linear Regression with Lasso penalty
+  * Linear Regression with Elastic net
+  * Linear Regression with Forward selection
+  * Linear Regression with Backward selection
+  * Linear Regression with Stepwise selection
 3. Polynomial regression
-* Stepwise Selection
+  * Stepwise Selection
 4. Regression Trees
 5. Logistic Regression : To predict the category of Used cars
